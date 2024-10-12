@@ -1,0 +1,8 @@
+<DiscordMessage>
+    <EmbedBuilder>
+        <Title>Captcha</Title>
+        <Description>Please prove that you are not a pesky robot. We do not take robots too kindly around here!</Description>
+        <ShortImage src="https://antiraid.xyz/logo.webp"/>
+        <BigImage src={captcha}/>
+    </EmbedBuilder>
+</DiscordMessage>
